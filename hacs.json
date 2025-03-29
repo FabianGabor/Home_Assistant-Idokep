@@ -1,0 +1,8 @@
+{
+  "name": "Időkép",
+  "content_in_root": false,
+  "domains": ["weather"],
+  "country": "HU",
+  "homeassistant": "2021.6.0",
+  "render_readme": true
+}
